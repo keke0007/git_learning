@@ -13,4 +13,5 @@ for (i = 0; i < acc.length; i++) {
     }
 }
 console.log("123")
+console.log("123")
 
